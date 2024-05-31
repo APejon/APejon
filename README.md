@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=553721&fontColor=808080&text=Welcome!&fontAlign=81&fontAlignY=30&desc=Click%20here%20for%20my%20portfolio&descAlign=81&descAlignY=55&animation=twinkling&stroke=FFD700)(https://google.com)
+<p float="left">
+  <img src="Pejon.gif" width = "500"/>
+  <img src="bread-pigeon-sticker.gif" width = "300"/> 
+</p>
+
+## Helloooo, you are reading the profile of Ammar Albreiki, aka Pejon 🐦
 
 <!--
 **APejon/APejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
