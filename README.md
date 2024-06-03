@@ -28,8 +28,14 @@ and I am a game developer studying programming at 42 Abu Dhabi (intra-login: Ama
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blender/blender.png"></code>
+<code><img height="40" src="Unity.jpeg"></code>
+<code><img height="40" src="UnrealEngine.jpeg"></code>
+<code><img height="40" src="Blender.png"></code>  
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=radical)
+
+#### 🎮 Games Made <br />
+
 <!--
 **APejon/APejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
