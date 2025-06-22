@@ -11,12 +11,13 @@
 ## Helloooo, you are reading the profile of Ammar Albreiki, aka Pejon 🐦
 *⚡ I got the name "Pejon" cause I do pigeon noises on discord, with some creativity with letters*
 
-and I am a game developer studying programming at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformers, hero shooters and rougelikes, feel free to find me on steam and discord below for a chat/game.
+and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformers, hero shooters and rougelikes, feel free to find me on steam and discord below for a chat/game.
 
 <img src="gifs/SmokedPigeon.gif" width = 1000 height = 200>  
 
 🔭 I’m currently a *mastery student at 42 Abu Dhabi*  
 🌱 I’m currently learning *Unreal Engine*, *Unity* , *Blender* 
+💼 I'm currently working at Khosouf Studio, Yas Creative Hub
 #### 📫 My Social Medias: <br />
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198071843286)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/113363487866007552)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/youtube.png" width="3.5%"/>](****)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/ammar-albreiki-pejon)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aapejon/) &nbsp; <a href="mailto:pejonmail@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
