@@ -47,7 +47,7 @@ Please visit the github of my colleagues as well, wouldn't have made it here wit
 <img src="gifs/PigeonFam.gif">  
 
 <a>
-<img src=https://capsule-render.vercel.app/api?type=waving&section=footer&color=553721&fontColor=808080&text=My%20pigeon%20fam%20and%20I%20appreciate%20your%20attention&fontAlign=50&fontAlignY=30&animation=twinkling&stroke=FFD700&fontSize=40>
+<img src=https://capsule-render.vercel.app/api?type=waving&section=footer&color=553721&fontColor=808080&text=%20Your%20attention%20is%20appreciated&fontAlign=50&fontAlignY=30&animation=twinkling&stroke=FFD700&fontSize=40>
 </a>
 <!--
 **APejon/APejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
