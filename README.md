@@ -16,7 +16,7 @@ and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hopin
 <img src="gifs/SmokedPigeon.gif" width = 1000 height = 200>  
 
 🔭 I’m currently a *mastery student at 42 Abu Dhabi*  
-🌱 I’m currently learning *Unreal Engine*, *Unity* , *Blender* 
+🌱 I’m currently learning *Unreal Engine*, *Unity* , *Blender*  
 💼 I'm currently working at Khosouf Studio, Yas Creative Hub
 #### 📫 My Social Medias: <br />
 
@@ -33,11 +33,27 @@ and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hopin
 <code><img height="40" src="pictures/UnrealEngine.jpeg"></code>
 <code><img height="40" src="pictures/Blender.png"></code>  
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=radical)
+<h2 style="color: #44AEFB">📈 Statistics</h2>
+<br>
 
-#### 🎮 Games Made <br />
+<div align="center">
 
-#### 🐤 My PejonFam <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=gruvbox&card_width=490px&line_height=33)
+
+</div>
+
+## 🎮 Games Made <br />
+
+### GameJams and Programs: <br />
+- A Gear in Whimsy
+- Rahala
+- A Matter Of Size
+### Job (at Khosouf Studio):
+- GlitchCore (WIP)
+### Personal:
+- SlimedCore (WIP)
+
+## 🐤 My PejonFam <br />
 
 Please visit the github of my colleagues as well, wouldn't have made it here without them:  
 
