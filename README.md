@@ -1,5 +1,5 @@
 <a href="https://google.com">
-  <img src=https://capsule-render.vercel.app/api?type=waving&color=553721&fontColor=808080&text=Welcome!&fontAlign=81&fontAlignY=30&desc=Click%20here%20for%20my%20portfolio&descAlign=81&descAlignY=55&animation=twinkling&stroke=FFD700>
+  <img src=https://capsule-render.vercel.app/api?type=waving&color=553721&fontColor=808080&text=Welcome!&fontAlign=81&fontAlignY=30&desc=Click%20here%20for%20my%20portfolio%20(Inactive)&descAlign=81&descAlignY=55&animation=twinkling&stroke=FFD700>
 </a>
 <p float="left">
   <img src="gifs/Pejon.gif" width = "500"/>
@@ -11,7 +11,7 @@
 ## Helloooo, you are reading the profile of Ammar Albreiki, aka Pejon 🐦
 *⚡ I got the name "Pejon" cause I do pigeon noises on discord, with some creativity with letters*
 
-and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformers, hero shooters and rougelikes, feel free to find me on steam and discord below for a chat/game.
+and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformers, hero shooters, turn based and rougelites, feel free to find me on steam and discord below for a chat/game.
 
 <img src="gifs/SmokedPigeon.gif" width = 1000 height = 200>  
 
@@ -45,7 +45,7 @@ and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hopin
 ## 🎮 Games Made <br />
 
 ### GameJams and Programs: <br />
-- A Gear in Whimsy
+- [A Gear in Whimsy](https://github.com/APejon/A-Gear-in-Whimsy)
 - Rahala
 - A Matter Of Size
 ### Job (at Khosouf Studio):
