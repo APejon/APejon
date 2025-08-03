@@ -46,7 +46,7 @@ and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hopin
 
 ### GameJams and Programs: <br />
 - [A Gear in Whimsy](https://github.com/APejon/A-Gear-in-Whimsy)
-- Rahala
+- [Rahala](https://github.com/Unhinged-Game-Studio/Rahala/tree/main)
 - A Matter Of Size
 ### Job (at Khosouf Studio):
 - GlitchCore (WIP)
