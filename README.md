@@ -11,7 +11,7 @@
 ## Helloooo, you are reading the profile of Ammar Albreiki, aka Pejon 🐦
 *⚡ I got the name "Pejon" cause I do pigeon noises on discord, with some creativity with letters*
 
-and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformers, hero shooters, turn based and rougelites, feel free to find me on steam and discord below for a chat/game.
+and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hoping to provide memorable experiences right unto your computers, I enjoy platformer, hero shooter, turn based, rougelite and couch co-op games, feel free to find me on steam and discord below for a chat/game.
 
 <img src="gifs/SmokedPigeon.gif" width = 1000 height = 200>  
 
