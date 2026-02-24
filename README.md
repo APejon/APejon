@@ -33,15 +33,6 @@ and I am a game developer student at 42 Abu Dhabi (intra-login: Amalbrei), hopin
 <code><img height="40" src="pictures/UnrealEngine.jpeg"></code>
 <code><img height="40" src="pictures/Blender.png"></code>  
 
-<h2 style="color: #44AEFB">📈 Statistics</h2>
-<br>
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apejon&show_icons=true&theme=gruvbox&card_width=490px&line_height=33)
-
-</div>
-
 ## 🎮 Games Made <br />
 
 ### GameJams and Programs: <br />
